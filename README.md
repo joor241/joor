@@ -1,2 +1,1 @@
 # joor
-Lazy wannabe coder
